@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="tempList">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+</resources>
